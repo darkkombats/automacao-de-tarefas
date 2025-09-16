@@ -27,7 +27,7 @@ Este projeto é para fins educacionais. Não utilize para automatizar ações em
 
 ## 📜 Licença
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para usar e modificar conforme suas necessidades.
 
 ## Requisitos
 
